@@ -81,6 +81,7 @@ pandoc \
     -V monofont="$monofont" \
     -V mathfont="$mathfont" \
     -V fontsize=12pt \
+    --wrap=preserve \
     --to=epub \
     --lua-filter "$DIR0/to/epub/lua/pagebreak.lua" \
     --css="$DIR0/to/epub/css/pagebreak.css" \
