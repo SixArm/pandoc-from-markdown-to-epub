@@ -37,9 +37,9 @@ Thanks to https://github.com/sixarm/posix-shell-script-kit/
 ## Tracking
 
   * Package: pandoc-from-markdown-to-epub
-  * Version: 2.1.2
+  * Version: 2.2.0
   * Created: 2022-03-12T22:05:34Z
-  * Updated: 2023-10-27T00:20:19Z
+  * Updated: 2023-11-21T21:29:57Z
   * License: GPL-2.0 or GPL-3.0 or contact us for more
   * Website: https://github.com/sixarm/pandoc-from-markdown-to-epub
   * Contact: Joel Parker Henderson (joel@sixarm.com)
